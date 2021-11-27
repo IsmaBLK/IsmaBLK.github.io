@@ -1,0 +1,57 @@
+h1
+{
+	text-align:center;
+	color:aquamarine;
+	font-family:sans-serif;
+	font-size:2.3em;
+	-webkit-text-stroke:2px pink;	
+}
+
+h2
+{
+	text-align:center;
+	color:yellow;
+	font-family:Impact;
+	-webkit-text-stroke:2px brown;
+}
+h3
+{
+	text-align:left;
+	color:red;
+	font-family:Impact;
+	-webkit-text-stroke:2px gold;
+}
+body {
+    background-color:orange;
+	border-width:3px;
+    border-style:solid;
+    padding:10px;
+}
+video
+{
+	border-width:5px;
+    border-style:solid;
+    padding:1px;
+	border-color:brown;
+}
+img
+{
+	border-width:2px;
+    border-style:solid;
+    padding:1px;
+	border-color:orangered;
+}
+
+p
+{
+    text-align:left;
+    color:blue;
+	font-weight:bold;
+	font-family:sans-serif
+}
+u
+{   color:green;
+	font-weight:bold;
+	font-family:sans-serif
+}
+
